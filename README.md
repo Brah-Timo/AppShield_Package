@@ -485,18 +485,16 @@ Tests cover:
 | Tier | Price | Includes |
 |------|-------|---------|
 | **Open Source** | Free | Core + 5 presets |
-| ## 💎 Pro Plan — $49 / year |
+| ## 💎 Pro Plan — $49 / year | $49 / year | 
 
 ✔ All 20+ presets  
 ✔ Advanced gradients system  
 ✔ Cloud sync  
-✔ Priority updates  
+✔ Priority updates  |
 
 👉 [🚀 Get Pro Access](https://timsoftdz.lemonsqueezy.com/checkout)
 
-## 🔗 Links
 
-- [pub.dev package](https://pub.dev/packages/app_shield)
-- [GitHub repository](https://github.com/yourcompany/app_shield)
-- [Issue tracker](https://github.com/yourcompany/app_shield/issues)
-- [License Server SaaS](https://appshield.dev)
+**Built with ❤️ for the Flutter community**
+## 🤝 TIMSoftDZ
+[TIMSoftDZ](https://timsoftdz.blogspot.com/)
