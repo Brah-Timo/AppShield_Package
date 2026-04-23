@@ -1,0 +1,42 @@
+name: app_shield_example
+description: >
+  A complete demonstration app for the AppShield package.
+  Shows every feature: license activation, feature guards, analytics,
+  multi-tenant, seat pooling, health monitoring, webhooks, and more.
+  Optimized for Windows desktop.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+  flutter: ">=3.19.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # ── AppShield (local path) ─────────────────────────────────────────────────
+  app_shield:
+    path: ../
+
+  # ── State Management ──────────────────────────────────────────────────────
+  provider: ^6.1.1
+
+flutter:
+  uses-material-design: true
+
+  # Assets
+  # Uncomment these when you add actual animation / image files:
+  # assets:
+  #   - assets/animations/
+  #   - assets/images/
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+# ── Dependency overrides ──────────────────────────────────────────────────────
+# Mirrors the overrides in the parent package so `flutter pub get` in the
+# example directory resolves without conflicts.
+dependency_overrides:
+  web: ^1.1.0
