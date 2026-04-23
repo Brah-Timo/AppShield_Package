@@ -492,7 +492,7 @@ Tests cover:
 ✔ Cloud sync  
 ✔ Priority updates  |
 
-👉 [🚀 Get Pro Access](https://timsoftdz.lemonsqueezy.com/checkout)
+👉 [🚀 Get Pro Access](https://timsoftdz.lemonsqueezy.com/checkout/buy/2b2c8115-3cbc-47e4-8bb3-f362e7622457)
 
 
 **Built with ❤️ for the Flutter community**
