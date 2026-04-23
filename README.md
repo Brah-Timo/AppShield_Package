@@ -479,11 +479,20 @@ Tests cover:
 
 ---
 
-## 📄 License
 
-MIT © 2026 — see [LICENSE](LICENSE) for details.
+## 💰 Licensing
 
----
+| Tier | Price | Includes |
+|------|-------|---------|
+| **Open Source** | Free | Core + 5 presets |
+| ## 💎 Pro Plan — $49 / year |
+
+✔ All 20+ presets  
+✔ Advanced gradients system  
+✔ Cloud sync  
+✔ Priority updates  
+
+👉 [🚀 Get Pro Access](https://timsoftdz.lemonsqueezy.com/checkout)
 
 ## 🔗 Links
 
