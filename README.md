@@ -1,3 +1,4 @@
+
 # 🛡️ AppShield — Licensing & Activation System for Flutter
 
 > **📖 [Full Usage Guide & API Reference →](USAGE.md)**
@@ -10,6 +11,10 @@
 A professional, enterprise-grade **licensing and activation package** for Flutter applications.  
 Supports **Windows · macOS · Linux · Android · iOS · Web**.
 
+
+<img width="800" height="500" alt="appshield_comparison" src="https://github.com/user-attachments/assets/9b167d09-7bba-4d6b-add4-d4ec3f3f63b8" />
+<img width="800" height="500" alt="appshield_demo" src="https://github.com/user-attachments/assets/f0b35787-0f0b-443e-8b77-454c8e45de6e" />
+<img width="800" height="500" alt="appshield_activation" src="https://github.com/user-attachments/assets/2c504a15-0d57-41cf-8964-fb8df48bbf57" />
 ---
 
 ## ✨ Features at a Glance
